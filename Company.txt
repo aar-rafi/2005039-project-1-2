@@ -1,0 +1,41 @@
+1;;;30977967
+2;Columbia Pictures;Columbia Pictures;299498029
+3;Winkler Films;Winkler Films;21836394
+4;Twentieth Century Fox Film Corporation;Twentieth Century Fox Film Corporation;1829724099
+5;Walt Disney Pictures;Walt Disney Pictures;2170106414
+6;Davis-Panzer Productions;Davis-Panzer Productions;-10100000
+7;A Band Apart;A Band Apart;6836616
+8;Touchstone Pictures;Touchstone Pictures;219460116
+9;Pixar Animation Studios;Pixar Animation Studios;343554033
+10;United Artists;United Artists;158700138
+11;Paramount Pictures;Paramount Pictures;4017401135
+12;Icon Entertainment International;Icon Entertainment International;138000000
+13;Davis-Films;Davis-Films;-218449
+14;TriStar Pictures;TriStar Pictures;501724473
+15;Regency Enterprises;Regency Enterprises;200052029
+16;Lightstorm Entertainment;Lightstorm Entertainment;420000000
+17;Lucasfilm;Lucasfilm;1656723978
+18;Blue Parrot Productions;Blue Parrot Productions;17341568
+19;Keith Barish Productions;Keith Barish Productions;18036000
+20;Gramercy Pictures;Gramercy Pictures;31189568
+21;Act III Communications;Act III Communications;14857814
+22;American Zoetrope;American Zoetrope;175862692
+23;Walt Disney Productions;Walt Disney Productions;279709790
+24;Eon Productions;Eon Productions;223011068
+25;Amblin Entertainment;Amblin Entertainment;499390539
+26;Gaumont;Gaumont;15739755
+27;RKO Radio Pictures;RKO Radio Pictures;597842071
+28;Imagine Entertainment;Imagine Entertainment;303237933
+29;Stanley Kubrick Productions;Stanley Kubrick Productions;58200000
+30;Caravan Pictures;Caravan Pictures;259057016
+31;New Line Cinema;New Line Cinema;294311859
+32;Morgan Creek Productions;Morgan Creek Productions;35505856
+33;Miramax Films;Miramax Films;737702864
+34;Orion Pictures;Orion Pictures;204501765
+35;PolyGram Filmed Entertainment;PolyGram Filmed Entertainment;689556046
+36;Universal Pictures;Universal Pictures;2425758768
+37;Shaw Brothers;Shaw Brothers;5139618
+38;Castle Rock Entertainment;Castle Rock Entertainment;3341469
+39;ami;ami;4803039
+40;Tim Burton Productions;Tim Burton Productions;89005426
+41;Hawk Films;Hawk Films;49406374
